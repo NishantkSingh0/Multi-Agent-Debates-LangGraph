@@ -11,7 +11,9 @@ Multi-Agent-Debates-LangGraph/
 ├── loadModel.py           # Loads the model using HuggingFace API token
 ├── GenerateResponse.py    # Function to generate role-based responses
 ├── Debate.py              # Main logic to simulate the debate using LangGraph
-└── main.py                # Entry point to start the debate
+├── main.py                # Entry point to start the debate
+├── requirements.txt       # Specification of modules used in programs
+└── LLM-Debates.ipynb      # Same code logic in jupyter noebook formate
 ```
 
 <br>

@@ -1,4 +1,4 @@
-# 🧠 AI Debate Simulator using LangGraph & OpenAI API
+# 🧠 AI Debate Simulator using LangGraph & HuggingFace API
 
 This project simulates a structured debate between a **Scientist** and a **Philosopher**, where each side presents their arguments, followed by a **Judge** evaluating the discussion. The debate is built using [LangGraph](https://github.com/langchain-ai/langgraph), with language generation powered by a HuggingFace-compatible chat model.
 

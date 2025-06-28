@@ -89,6 +89,8 @@ However, I do want to commend both participants for their enthusiasm and willing
 
 ## 🚀 Getting Started
 
+`Live Colab execution (ipynb):`&nbsp;&nbsp; [Colab](https://colab.research.google.com/drive/1WwESIzUNh_rqscwwRPFNNxYC9qalxZYE?usp=sharing)
+
 ### 1. Clone the Repository
 
 ```bash

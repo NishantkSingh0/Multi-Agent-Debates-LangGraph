@@ -1,0 +1,4 @@
+langgraph
+langchain-core
+python-dotenv
+huggingface_hub
